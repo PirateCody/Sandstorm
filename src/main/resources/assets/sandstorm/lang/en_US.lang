@@ -1,0 +1,9 @@
+item.Sandstorm.name=Music Disc
+item.record.sandstorm.desc=Darude - Sandstorm
+
+item.SandShard.name=Sand Shard
+item.darudeEssence.name=Essence of Darude
+item.sandstormFrag.name=Sandstorm Fragment
+item.primordialSS.name=Primordial Sandstorm
+
+tile.CompressedSand.name=Compressed Sand

@@ -1,0 +1,21 @@
+{
+    "records.sandstorm": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/sandstorm",
+                "stream": true
+            }
+        ]
+    }
+
+    "records.SNA": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "records/SNA",
+				"stream": true
+			}
+		]
+	}
+}

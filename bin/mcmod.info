@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sandstorm",
+  "name": "The Sandstorm Mod",
+  "description": "Adds the greatest thing ever to Minecraft. Not affiliated with Darude in any way, shape or form.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PirateKody"],
+  "credits": "Armada Interactive",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
