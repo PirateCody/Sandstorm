@@ -62,3 +62,4 @@ usernamecache.json
 /gradlew
 /gradlew.bat
 /build.gradle
+*.project
