@@ -14,5 +14,6 @@ public class SSBlock extends Block
         this.setCreativeTab(CreativeTabs.tabBlock);
         this.setBlockName(name);
         this.setBlockTextureName(Reference.MODID + ":"+ name);
+       
     }
 }

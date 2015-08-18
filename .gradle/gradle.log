@@ -9,12 +9,9 @@
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
 :sourceMainJava
-:compileJava
-Download http://files.minecraftforge.net/maven/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
-Download http://files.minecraftforge.net/maven/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
-Download http://files.minecraftforge.net/maven/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
-warning: [options] bootstrap class path not set in conjunction with -source 1.6
+:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
 1 warning
+
 :processResources
 :classes
 :jar
@@ -22,9 +19,9 @@ warning: [options] bootstrap class path not set in conjunction with -source 1.6
 :processTestResources UP-TO-DATE
 :testClasses UP-TO-DATE
 :test UP-TO-DATE
-:extractMcpData
+:extractMcpData UP-TO-DATE
 :getVersionJson
-:extractUserDev
+:extractUserDev UP-TO-DATE
 :genSrgs SKIPPED
 :reobf
 :assemble
@@ -33,4 +30,4 @@ warning: [options] bootstrap class path not set in conjunction with -source 1.6
 
 BUILD SUCCESSFUL
 
-Total time: 1 mins 38.036 secs
+Total time: 22.151 secs
