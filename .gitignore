@@ -43,14 +43,22 @@ Temporary Items
 .apdisk
 
 # Other Files
-build
-bin
+/build
 *.classpath
 .settings
-mods
-logs
-saves
-resourcepacks
-config
+/mods
+/logs
+/saves
+/resourcepacks
+/config
 options.txt
 usernamecache.json
+/.classpath
+/.gradle
+/.project
+/.settings
+/bin
+/gradle
+/gradlew
+/gradlew.bat
+/build.gradle
