@@ -15,16 +15,3 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-
-# Other Files
-
-/.gradle
-/.settings
-/bin
-/logs
-/mods
-/resourcepacks
-/saves
-.classpath
-options
-usernamecache.json

@@ -9,7 +9,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
 
-public class SSJukebox<String> extends BlockJukebox{
+public class SSJukebox extends BlockJukebox{
 	
 	public SSJukebox(String name){
 		
