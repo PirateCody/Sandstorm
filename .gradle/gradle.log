@@ -9,9 +9,7 @@
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
 :sourceMainJava
-:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
-1 warning
-
+:compileJava UP-TO-DATE
 :processResources
 :classes
 :jar
@@ -30,4 +28,4 @@
 
 BUILD SUCCESSFUL
 
-Total time: 10.38 secs
+Total time: 26.43 secs

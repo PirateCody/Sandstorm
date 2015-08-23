@@ -1,4 +1,4 @@
-package com.piratecody.sandstorm.blocks;
+/*package com.piratecody.sandstorm.blocks;
 
 import com.piratecody.sandstorm.Reference;
 
@@ -53,4 +53,4 @@ public class SSJukebox extends BlockJukebox{
         }
     }
 
-}
+}*/
