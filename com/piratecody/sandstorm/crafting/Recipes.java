@@ -17,7 +17,7 @@ public class Recipes {
 				{"AAA", "AAA", "AAA", 'A', Blocks.sand});
 		
 		GameRegistry.addShapedRecipe(new ItemStack(SandstormItems.SandShard), new Object[] 
-				{"AAA", "AAA", "AAA", 'A', ModBlocks.compressedSand});
+				{" A ", " A ", "A A", 'A', ModBlocks.compressedSand});
 		
 		GameRegistry.addShapedRecipe(new ItemStack(SandstormItems.darudeEssence), new Object[] 
 				{"ABA", "BAB", "ABA", 'A', SandstormItems.SandShard, 'B', Blocks.gold_block});
